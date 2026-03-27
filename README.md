@@ -167,6 +167,27 @@ tutorial.pdf
 
 This project is licensed under the MIT License.
 
+### 📜 License & Usage
+
+### What you are allowed to do:
+
+* Use the code for personal or commercial projects
+* Modify and improve the code
+* Share and distribute the code
+* Include it in your own projects
+
+### Conditions:
+
+* You must include the original MIT License in any copy of this project
+* You must give proper credit to the original author
+
+### Limitations:
+
+* The software is provided "as is"
+* The author is not responsible for any issues, errors, or damages caused by using this code
+
+This means you are free to use and adapt this project, but you must keep the license and acknowledge the original work.
+
 ---
 
 ## 🙌 Author
