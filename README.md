@@ -47,7 +47,7 @@ python decision_tree.py
 
 ---
 
-### 🔹 Option 2: Run Notebook (Recommended for learning)
+### 🔹 Option 2: Run Notebook in Google Colab (Recommended for learning)
 
 1. Open `decision_tree.ipynb`
 2. Run all cells step-by-step
@@ -55,7 +55,7 @@ python decision_tree.py
 You can use:
 
 * Jupyter Notebook
-* Or upload to Google Colab
+* Or upload to Google Colab (Recommended)
 
 ---
 
